@@ -1,0 +1,27 @@
+@media screen and (max-width:991px) {
+    .about-media {
+        display: flex;
+        flex-direction: row;
+    }
+    .img-left {
+        text-align: center;
+    }
+    .img-right {
+        text-align: center;
+    }
+    .section-heading {
+        padding-top: 3rem;
+    }
+    h2, .h2 {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width:767px) {
+    
+}
+
+
+/* override */
+@media (min-width: 1200px) {
+    
+}
